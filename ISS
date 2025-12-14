@@ -1,0 +1,7 @@
+ISS - stock related company Fintech domain
+
+This was my basically experinced level interview for first time.
+
+There were 3 interviewers - did basic grind on JAVA basics and OOPS concepts, then slowly they went through JAVA 8 topics (which i have studied but was not confident enough)
+also asked to solve question related to comparable and comparator which i failed to solve - also asked about its difference
+so basically this interview went below average as I was not prepared, I was just getting to know that what types of questions experinced person can be asked.
